@@ -8,3 +8,9 @@ wheels/
 
 # Virtual environments
 .venv
+
+# System
+.DS_Store
+.vscode
+.idea
+.swp
